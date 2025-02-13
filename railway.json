@@ -1,9 +1,10 @@
 {
     "build": {
         "builder": "nixpacks",
+        "plan": "nodejs",
         "buildCommand": "cd server && corepack enable && npm install"
     },
     "deploy": {
-        "startCommand": "cd server && npm start"
+        "startCommand": "cd server && node index.js"
     }
 }
