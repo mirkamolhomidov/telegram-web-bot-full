@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const express = require('express');
 const cors = require('cors');
 
-const token = '6307449411:AAF-aZSodAz9LWJq0LA_KLKSpjAJTaESuLY';
+const token = '7720557343:AAH8QpoNBFEHI-1fjHVuzs5j22wbpvPtQVo';
 
 // const token = '6392124644:AAGweSFNWmhx3pOXXRLlcFUTgb_tGpS2Sag';
 
